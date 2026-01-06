@@ -10,6 +10,9 @@
 
 [LIVE-SHARE](https://prod.liveshare.vsengsaas.visualstudio.com/join?897C756E818342D7711C9886ACB64BA3C584)
 
+
+[LIVE-SHARE RASTO](https://prod.liveshare.vsengsaas.visualstudio.com/join?3D8D2F87170C5C79804D63A5EE3153924CDB)
+
 ## Zvysok
 
 ori je (samozrejme) kokot
