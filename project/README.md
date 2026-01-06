@@ -15,3 +15,7 @@
 ori je (samozrejme) kokot
 
 
+
+toto ide uplne na klud ze
+
+ jo
